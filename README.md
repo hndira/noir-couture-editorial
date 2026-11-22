@@ -84,7 +84,6 @@ cp -r noir-couture-editorial/skills/noir-couture-editorial ~/.gemini/config/skil
 noir-couture-editorial/
 ├── README.md
 ├── LICENSE
-├── X_POST_DRAFT.md                          # 可直接发布的 X 长贴文草稿
 ├── assets/
 │   └── showcase/
 │       ├── 01-architectural-ivory-poster.jpg
